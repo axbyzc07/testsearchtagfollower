@@ -97,4 +97,4 @@ Interstitial1: "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID", Native1: "VI
 - MyCustomAds: {
 ad_showAdStatus: "1",
 ad_loadAdIdsType: "0", },
-},
+}
