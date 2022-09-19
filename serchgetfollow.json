@@ -92,7 +92,7 @@ ad_loadAdIdsType: "0",
 Banner1: "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 Interstitial1: "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID", Native1: "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID", RewardedVideo1: "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", NativeBanner1: "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
 },
-MyCustomAds: {
+MyCustomAds:{
 ad_showAdStatus: "1",
 ad_loadAdIdsType: "0", },
 }
