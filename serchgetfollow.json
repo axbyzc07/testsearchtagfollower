@@ -78,9 +78,7 @@ bannerspacebox: "off", playstoreratedialog: "off", ratedialog: "on", ratedialogn
 evenoddapp: "off", thirdpartydialog: "off", adsbgcolor: "ffffff", nativeadstextcolor: "000000", adsbuttoncolor: "000000", vpnwithoutscreen: "off", vpnscreen: "on", vpnnotnowbtn: "on", vpnselectcountry: "sg", qurekapredmglview: "off", playgameonoff: "off", headerlogo: "on",
 giftbutton: "on", skipscreen: "on", splashscreen: "on", exitscreen: "on", morebutton: "on", privacyscreen: "on", permissionscreen: "on", welcomescreen: "on", extrascreen1: "on",
 },
-+-
-View source
- - PLACEMENT: { - Admob: {
+PLACEMENT: { Admob: {
 ad_showAdStatus: "1",
 ad_loadAdIdsType: "1",
 AppID: "ca-app-pub-3940256099942544~3347511713", Banner1: "/6499/example/banner",
@@ -88,13 +86,13 @@ Interstitial1: "/6499/example/interstitial", Native1: "/6499/example/native",
 RewardedVideo1: "PLACEMENT ID",
 AppOpen1: "/6499/example/app-open",
 },
-- Facebookaudiencenetwork: {
+Facebookaudiencenetwork: {
 ad_showAdStatus: "1",
 ad_loadAdIdsType: "0",
 Banner1: "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 Interstitial1: "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID", Native1: "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID", RewardedVideo1: "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID", NativeBanner1: "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
 },
-- MyCustomAds: {
+MyCustomAds: {
 ad_showAdStatus: "1",
 ad_loadAdIdsType: "0", },
 }
